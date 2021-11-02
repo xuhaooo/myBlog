@@ -275,7 +275,7 @@ URL 还有 2 个特殊简写表示特定位置：
 
 ```html
 <head>
-<base href="https://www.example.com/files/" target="_blank">
+  <base href="https://www.example.com/files/" target="_blank">
 </head>
 ```
 
