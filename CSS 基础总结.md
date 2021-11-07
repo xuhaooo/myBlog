@@ -193,7 +193,7 @@ CSS 就是规定如果你写了 `inline-block`，那么他们的 `margin` 是不
 
 ## 4. 布局需要用到哪些属性？
 
-![Untitled](images/CSS基础/Untitled.png)
+![Untitled](https://cdn.nlark.com/yuque/0/2021/png/385743/1636104264756-fc64375d-7a33-4564-bb3f-96159fe558fe.png)
 
 # 十三、浮动
 
@@ -251,7 +251,7 @@ IE6/7 存在双倍 `margin` bug，解决办法有两个：
 
 ## 3. 一个 `<div>` 的分层
 
-![Untitled](images/CSS基础/Untitled1.png)
+![Untitled](https://cdn.nlark.com/yuque/0/2021/png/385743/1636104275404-ec76006e-3cd8-4f36-b0be-7bc41d3e4938.png?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
 
 浮动元素脱离文档流，其实就是浮起来一点点
 
@@ -316,11 +316,11 @@ Composite 合成（根据层叠关系展示画面）
 
 ### 4.2 三棵树
 
-![Untitled](images/CSS基础/Untitled2.png)
+![Untitled](https://cdn.nlark.com/yuque/0/2021/png/385743/1636104285612-530c7300-e678-47ca-aca9-51ef8120fbad.png?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
 
 ### 4.3 三种更新方式
 
-![Untitled](images/CSS基础//Untitled3.png)
+![Untitled](https://cdn.nlark.com/yuque/0/2021/png/385743/1636104290738-ce66d15a-7c64-4512-a788-2b264ceb4e5a.png?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
 
 - 第一种，全走：
 
